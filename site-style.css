@@ -383,7 +383,7 @@ b{
     }
 
     .header{
-        background-image: url(assets/HEADER/curtain\ header.png);
+        background-image: url(assets/header/curtain\ header.png);
         background-size: auto 89px;
         max-width: 100vw;
         width: 100%;
@@ -460,7 +460,7 @@ b{
     }
 
     .header{
-        background-image: url(assets/HEADER/curtain\ header.png);
+        background-image: url(assets/header/curtain\ header.png);
         background-size: auto 55px;
         background-repeat: no-repeat;
         max-width: 100vw;
@@ -512,3 +512,4 @@ b{
     }
 
 }
+
