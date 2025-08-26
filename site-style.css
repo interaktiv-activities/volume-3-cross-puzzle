@@ -296,7 +296,7 @@ b{
 
 /* HEADER STYLING */
 .header{
-    background-image: url(assets/HEADER/curtain\ header.png);
+    background-image: url(assets/header/curtain\ header.png);
     background-size: auto auto;
     background-position: top center;
     max-width: 100vw;
@@ -510,4 +510,5 @@ b{
     .portal-reset img {
         width: 400px; 
     }
+
 }
